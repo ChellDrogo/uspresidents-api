@@ -1,0 +1,1394 @@
+[
+    {
+        "id": 1,
+        "name": "George Washington",
+        "vice_president": [
+            {
+                "name": "John Adams",
+                "from": 1789,
+                "to": 1797
+            }],
+        "first_lady": "Martha Dandridge Custis Washington",
+        "political_party": "Unaffiliated",
+        "in_office": {
+            "from": "04/30/1789",
+            "to": "03/04/1797"
+        },
+        "personal_details": {
+            "born": "02/22/1732",
+            "died": "12/14/1799",
+            "aged": 67,
+            "spouse": "Martha Dandridge Custis Washington",
+            "children": ["John", "Patsy"],
+            "parents": {
+                "father": "Augustine Washington",
+                "mother": "Mary Ball Washington"
+            } 
+        },
+        "famous_quote": "If freedom of speech is taken away, then dumb and silent we may be led, like sheep to the slaughter.",
+        "image_url": "http://localhost:3000/president01.jpg"
+    },
+    {
+        "id": 2,
+        "name": "John Adams",
+        "vice_president": [{
+            "name": "Thomas Jefferson",
+            "from": 1797,
+            "to": 1801
+        }],
+        "first_lady": "Abigail Smith Adams",
+        "political_party": "Federalist",
+        "in_office": {
+            "from": "03/04/1797",
+            "to": "03/04/1801"
+        },
+        "personal_details": {
+            "born": "10/30/1735",
+            "died": "07/04/1826",
+            "aged": 90,
+            "spouse": "Abigail Smith Adams",
+            "children": ["Abigail", "John", "Quincy", "Charles", "Thomas"],
+            "parents": {
+                "father": "John Adams Sr",
+                "mother": "Susanna Boylston"
+            } 
+        },
+        "famous_quote": "Liberty, once lost, is lost forever.",
+        "image_url": "http://localhost:3000/president02.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Thomas Jefferson",
+        "vice_president": [
+            {
+                "name": "Aaron Burr",
+                "from": 1801,
+                "to": 1805
+            },
+            {
+                "name": "George Clinton",
+                "from": 1805,
+                "to": 1809
+            }
+        ],
+        "first_lady": "Martha Wayles",
+        "political_party": "Democratic-Republican",
+        "in_office": {
+            "from": "03/04/1801",
+            "to": "03/04/1809"
+        },
+        "personal_details": {
+            "born": "04/13/1743",
+            "died": "07/04/1826",
+            "aged": 83,
+            "spouse": "Martha Wayles",
+            "children": ["Martha", "Mary", "Madison", "Eston"],
+            "parents": {
+                "father": "Peter Jefferson",
+                "mother": "Jane Randolph"
+            } 
+        },
+        "famous_quote": "If a nation expects to be ignorant and free, in a state of civilization, it expects what never was and never will be.",
+        "image_url": "http://localhost:3000/president03.jpg"
+    },
+    {
+        "id": 4,
+        "name": "James Madison",
+        "vice_president": [
+            {
+                "name": "George Clinton",
+                "from": 1809,
+                "to": 1812
+            },
+            {
+                "name": "Elbridge Gerry",
+                "from": 1813,
+                "to": 1814
+            }
+        ],
+        "first_lady": "Dolley Payne Todd",
+        "political_party": "Democratic-Republican",
+        "in_office": {
+            "from": "03/04/1809",
+            "to": "03/04/1817"
+        },
+        "personal_details": {
+            "born": "04/16/1751",
+            "died": "06/28/1836",
+            "aged": 85,
+            "spouse": "Dolley Payne Todd",
+            "children": ["John"],
+            "parents": {
+                "father": "James Madison Sr",
+                "mother": "Nelly Conway"
+            } 
+        },
+        "famous_quote": "The advancement and diffusion of knowledge is the only guardian of true liberty.",
+        "image_url": "http://localhost:3000/president04.jpg"
+    },
+    {
+        "id": 5,
+        "name": "James Monroe",
+        "vice_president": [
+            {
+                "name": "Daniel D. Tompkins",
+                "from": 1817,
+                "to": 1825
+            }
+        ],
+        "first_lady": "Elizabeth Kortright",
+        "political_party": "Democratic-Republican",
+        "in_office": {
+            "from": "03/04/1817",
+            "to": "03/04/1825"
+        },
+        "personal_details": {
+            "born": "04/28/1758",
+            "died": "07/04/1831",
+            "aged": 73,
+            "spouse": "Elizabeth Kortright",
+            "children": ["Eliza"],
+            "parents": {
+                "father": "Spence Monroe",
+                "mother": "Elizabeth Jones Monroe"
+            } 
+        },
+        "famous_quote": "National honor is the national property of the highest value.",
+        "image_url": "http://localhost:3000/president05.jpg"
+    },
+    {
+        "id": 6,
+        "name": "John Quincy Adams",
+        "vice_president": [
+            {
+                "name": "John C. Calhoun",
+                "from": 1825,
+                "to": 1829
+            }
+        ],
+        "first_lady": "Louisa Johnson",
+        "political_party": "Democratic-Republican",
+        "in_office": {
+            "from": "03/04/1825",
+            "to": "03/04/1829"
+        },
+        "personal_details": {
+            "born": "07/11/1767",
+            "died": "02/23/1848",
+            "aged": 80,
+            "spouse": "Louisa Johnson",
+            "children": ["George","John","Charles","Louisa"],
+            "parents": {
+                "father": "John Adams",
+                "mother": "Abigail Smith"
+            } 
+        },
+        "famous_quote": "If your actions inspire others to dream more, learn more, do more and become more, you are a leader.",
+        "image_url": "http://localhost:3000/president06.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Andrew Jackson",
+        "vice_president": [
+            {
+                "name": "John C. Calhoun",
+                "from": 1829,
+                "to": 1832
+            },
+            {
+                "name": "Martin Van Buren",
+                "from": 1833,
+                "to": 1837
+            }
+        ],
+        "first_lady": "Rachel Donelson",
+        "political_party": "Democratic",
+        "in_office": {
+            "from": "03/04/1829",
+            "to": "03/04/1837"
+        },
+        "personal_details": {
+            "born": "03/15/1767",
+            "died": "06/08/1845",
+            "aged": 78,
+            "spouse": "Rachel Donelson",
+            "children": ["Hugh, Robert, Andrew"],
+            "parents": {
+                "father": "Andrew Jackson",
+                "mother": "Elizabeth Hutchinson Jackson"
+            } 
+        },
+        "famous_quote": "Americans are not a perfect people, but we are called to a perfect mission.",
+        "image_url": "http://localhost:3000/president07.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Martin Van Buren",
+        "vice_president": [
+            {
+                "name": "Richard Mentor Johnson",
+                "from": 1837,
+                "to": 1841
+            }
+        ],
+        "first_lady": "Hannah Hoes",
+        "political_party": "Democratic",
+        "in_office": {
+            "from": "03/04/1837",
+            "to": "03/04/1841"
+        },
+        "personal_details": {
+            "born": "12/05/1782",
+            "died": "07/24/1862",
+            "aged": 79,
+            "spouse": "Hannah Hoes",
+            "children": ["Abraham","John","Martin","Winfield","Smith"],
+            "parents": {
+                "father": "Abraham Van Buren",
+                "mother": "Marie Hoes Van Buren"
+            } 
+        },
+        "famous_quote": "The less government interferes with private pursuits, the better for general prosperity.",
+        "image_url": "http://localhost:3000/president08.jpg"
+    },
+    {
+        "id": 9,
+        "name": "William Henry Harrison",
+        "vice_president": [
+            {
+                "name": "John Tyler",
+                "from": 1841,
+                "to": 1841
+            }
+        ],
+        "first_lady": "Anna Symmes",
+        "political_party": "Whig",
+        "in_office": {
+            "from": "03/04/1841",
+            "to": "04/04/1841"
+        },
+        "personal_details": {
+            "born": "02/09/1773",
+            "died": "04/04/1841",
+            "aged": 68,
+            "spouse": "Anna Symmes",
+            "children": ["John Cleves","Carter","Elizabeth","Lucy","William","John Scott", "Benjamin","Mary","Anna","James"],
+            "parents": {
+                "father": "Benjamin Harrison",
+                "mother": "Elizabeth Bassett Harrison"
+            } 
+        },
+        "famous_quote": "Times change, and we change with them",
+        "image_url": "http://localhost:3000/president09.jpg"
+    },
+    {
+        "id": 10,
+        "name": "John Tyler",
+        "vice_president": [
+            {
+                "name": "Vacant",
+                "from": 1841,
+                "to": 1845
+            }
+        ],
+        "first_lady": "Letitia Christan",
+        "political_party": "Whig",
+        "in_office": {
+            "from": "04/06/1841",
+            "to": "03/03/1845"
+        },
+        "personal_details": {
+            "born": "03/29/1790",
+            "died": "01/18/1862",
+            "aged": 71,
+            "spouse": "Letitia Christan",
+            "children": ["Mary","Robert","John","Letitia","Elizabeth","Anne","Alice","Tazewell","David","John Alexander","Julia","Lachlan","Lyon","Robert","Pearl"],
+            "parents": {
+                "father": "John Tyler",
+                "mother": "Mary Marot Armistead Tyler"
+            } 
+        },
+        "famous_quote": "I can never consent to being dictated to.",
+        "image_url": "http://localhost:3000/president10.jpg"
+    },
+    {
+        "id": 11,
+        "name": "James K. Polk",
+        "vice_president": [
+            {
+                "name": "George M. Dallas",
+                "from": 1845,
+                "to": 1849
+            }
+        ],
+        "first_lady": "Sarah Childress",
+        "political_party": "Democratic",
+        "in_office": {
+            "from": "03/04/1845",
+            "to": "03/03/1849"
+        },
+        "personal_details": {
+            "born": "11/02/1795",
+            "died": "06/15/1849",
+            "aged": 53,
+            "spouse": "Sarah Childress",
+            "children": ["None"],
+            "parents": {
+                "father": "Samuel Polk",
+                "mother": "Jane Grace Knox Polk"
+            } 
+        },
+        "famous_quote": "Peace, plenty, and contentment reign throughout our borders, and our beloved country presents a sublime moral spectacle to the world.",
+        "image_url": "http://localhost:3000/president11.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Zachary Taylor",
+        "vice_president": [
+            {
+                "name": "Millard Fillmore",
+                "from": 1849,
+                "to": 1850
+            }
+        ],
+        "first_lady": "Margaret Mackall Smith",
+        "political_party": "Whig",
+        "in_office": {
+            "from": "03/04/1849",
+            "to": "07/09/1850"
+        },
+        "personal_details": {
+            "born": "11/24/1784",
+            "died": "07/09/1850",
+            "aged": 65,
+            "spouse": "Margaret Mackall Smith",
+            "children": ["Ann","Sarah","Octavia","Margaret","Mary","Richard"],
+            "parents": {
+                "father": "Richard Lee Taylor",
+                "mother": "Sarah Dabney Strother Taylor"
+            } 
+        },
+        "famous_quote": "I have no private purpose to accomplish, no party objectives to build up, no enemies to punish—nothing to serve but my country.",
+        "image_url": "http://localhost:3000/president12.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Millard Filmore",
+        "vice_president": [
+            {
+                "name": "Vacant",
+                "from": 1850,
+                "to": 1853
+            }
+        ],
+        "first_lady": "Abigail Powers",
+        "political_party": "Whig",
+        "in_office": {
+            "from": "07/09/1850",
+            "to": "03/03/1853"
+        },
+        "personal_details": {
+            "born": "01/07/1800",
+            "died": "03/08/1874",
+            "aged": 74,
+            "spouse": "Abigail Powers",
+            "children": ["Millard","Mary"],
+            "parents": {
+                "father": "Nathaniel Fillmore",
+                "mother": "Phoebe Millard Fillmore"
+            } 
+        },
+        "famous_quote": "Change is inevitable, growth is intentional.",
+        "image_url": "http://localhost:3000/president13.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Franklin Pierce",
+        "vice_president": [
+            {
+                "name": "William R. King",
+                "from": 1853,
+                "to": 1857
+            }
+        ],
+        "first_lady": "Jane Means Appleton",
+        "political_party": "Democratic",
+        "in_office": {
+            "from": "03/04/1853",
+            "to": "03/03/1857"
+        },
+        "personal_details": {
+            "born": "11/23/1804",
+            "died": "10/08/1869",
+            "aged": 64,
+            "spouse": "Jane Means Appleton",
+            "children": ["Franklin","Frank Robert","Benjamin"],
+            "parents": {
+                "father": "Benjamin Pierce",
+                "mother": "Ann Kendrick Pierce"
+            } 
+        },
+        "famous_quote": "I wish I could indulge higher hope for the future of our country, but the aspect of any vision is fearfully dark and I cannot make it otherwise.",
+        "image_url": "http://localhost:3000/president14.jpg"
+    },
+    {
+        "id": 15,
+        "name": "James Buchanan",
+        "vice_president": [
+            {
+                "name": "John C. Breckinridge",
+                "from": 1857,
+                "to": 1861
+            }
+        ],
+        "first_lady": "None",
+        "political_party": "Democratic",
+        "in_office": {
+            "from": "03/04/1857",
+            "to": "03/03/1861"
+        },
+        "personal_details": {
+            "born": "04/23/1791",
+            "died": "06/01/1868",
+            "aged": 77,
+            "spouse": "None",
+            "children": ["None"],
+            "parents": {
+                "father": "James Buchanan",
+                "mother": "Elizabeth Speer Buchanan"
+            } 
+        },
+        "famous_quote": "What is right and what is practicable are two different things.",
+        "image_url": "http://localhost:3000/president15.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Abraham Lincoln",
+        "vice_president": [
+            {
+                "name": "Hannibal Hamlin",
+                "from": 1861,
+                "to": 1865
+            },
+            {
+                "name": "Andrew Johnson",
+                "from": 1865,
+                "to": 1865
+            }
+        ],
+        "first_lady": "Mary Todd",
+        "political_party": "Republican",
+        "in_office": {
+            "from": "03/04/1861",
+            "to": "04/15/1865"
+        },
+        "personal_details": {
+            "born": "02/12/1809",
+            "died": "04/15/1865",
+            "aged": 56,
+            "spouse": "Mary Todd",
+            "children": ["Robert", "Edward","William","Thomas"],
+            "parents": {
+                "father": "Thomas Lincoln",
+                "mother": "Nancy Hanks Lincoln"
+            } 
+        },
+        "famous_quote": "Nearly all men can stand adversity, but if you want to test a man's character, give him power.",
+        "image_url": "http://localhost:3000/president16.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Andrew Johnson",
+        "vice_president": [
+            {
+                "name": "None",
+                "from": 1865,
+                "to": 1869
+            }
+        ],
+        "first_lady": "Eliza McCardle",
+        "political_party": "Democratic",
+        "in_office": {
+            "from": "04/15/1865",
+            "to": "03/03/1869"
+        },
+        "personal_details": {
+            "born": "12/29/1808",
+            "died": "07/31/1875",
+            "aged": 66,
+            "spouse": "Eliza McCardle",
+            "children": ["Martha","Charles","Mary","Robert","Andrew"],
+            "parents": {
+                "father": "Jacob Johnson",
+                "mother": "Mary McDonough Johnson"
+            } 
+        },
+        "famous_quote": "I feel incompetent to perform duties...which have been so unexpectedly thrown upon me.",
+        "image_url": "http://localhost:3000/president17.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Ulysses S. Grant",
+        "vice_president": [
+            {
+                "name": "Schuyler Colfax",
+                "from": 1869,
+                "to": 1873
+            },
+            {
+                "name": "Henry Wilson",
+                "from": 1873,
+                "to": 1875
+            }
+        ],
+        "first_lady": "Julia Boggs Dent",
+        "political_party": "Republican",
+        "in_office": {
+            "from": "03/04/1869",
+            "to": "03/03/1877"
+        },
+        "personal_details": {
+            "born": "04/27/1822",
+            "died": "07/23/1885",
+            "aged": 63,
+            "spouse": "Julia Boggs Dent",
+            "children": ["Frederick","Ulysses","Ellen","Jesse"],
+            "parents": {
+                "father": "Jesse Root Grant",
+                "mother": "Hannah Simpson Grant"
+            } 
+        },
+        "famous_quote": "In every battle there comes a time when both sides consider themselves beaten. Then he who continues to attack wins.",
+        "image_url": "http://localhost:3000/president18.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Rutherford B. Hayes",
+        "vice_president": [
+            {
+                "name": "William A. Wheeler",
+                "from": 1877,
+                "to": 1881
+            }
+        ],
+        "first_lady": "Lucy Ware Webb",
+        "political_party": "Republican",
+        "in_office": {
+            "from": "03/04/1877",
+            "to": "03/03/1881"
+        },
+        "personal_details": {
+            "born": "10/04/1822",
+            "died": "01/17/1893",
+            "aged": 70,
+            "spouse": "Lucy Ware Webb",
+            "children": ["Birchard","James","Rutherford","Joseph","George","Fanny","Scott","Manning"],
+            "parents": {
+                "father": "Rutherford Hayes",
+                "mother": "Sophia Birchard Hayes"
+            } 
+        },
+        "famous_quote": "He serves his party best who serves his country best.",
+        "image_url": "http://localhost:3000/president19.jpg"
+    },
+    {
+        "id": 20,
+        "name": "James A. Garfield",
+        "vice_president": [
+            {
+                "name": "Chester A. Arthur",
+                "from": 1881,
+                "to": 1881
+            }
+        ],
+        "first_lady": "Lucretia Rudolph",
+        "political_party": "Republican",
+        "in_office": {
+            "from": "03/04/1881",
+            "to": "09/19/1881"
+        },
+        "personal_details": {
+            "born": "11/19/1831",
+            "died": "09/19/1881",
+            "aged": 49,
+            "spouse": "Lucretia Rudolph",
+            "children": ["Eliza","Harry","James","Mary","Irvin","Abram","Edward"],
+            "parents": {
+                "father": "Abram Garfield",
+                "mother": "Eliza Ballou Garfield"
+            } 
+        },
+        "famous_quote": "A pound of pluck is worth a ton of luck.",
+        "image_url": "http://localhost:3000/president20.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Chester A. Arthur",
+        "vice_president": [
+            {
+                "name": "None",
+                "from": 1881,
+                "to": 1885
+            }
+        ],
+        "first_lady": "Ellen Lewis Herndon",
+        "political_party": "Republican",
+        "in_office": {
+            "from": "09/19/1881",
+            "to": "03/03/1885"
+        },
+        "personal_details": {
+            "born": "10/05/1829",
+            "died": "11/18/1886",
+            "aged": 57,
+            "spouse": "Ellen Lewis Herndon",
+            "children": ["William Lewis","Chester","Ellen"],
+            "parents": {
+                "father": "William Arthur",
+                "mother": "Malvina Stone Arthur"
+            } 
+        },
+        "famous_quote": "Men may die, but the fabrics of free institutions remains unshaken.",
+        "image_url": "http://localhost:3000/president21.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Grover Cleveland",
+        "vice_president": [
+            {
+                "name": "Thomas A. Hendricks",
+                "from": 1885,
+                "to": 1889
+            }
+        ],
+        "first_lady": "Frances Folsom",
+        "political_party": "Democratic",
+        "in_office": {
+            "from": "03/04/1885",
+            "to": "03/04/1889"
+        },
+        "personal_details": {
+            "born": "03/18/1837",
+            "died": "06/24/1908",
+            "aged": 71,
+            "spouse": "Frances Folsom",
+            "children": ["Ruth","Esther","Marion","Richard","Francis"],
+            "parents": {
+                "father": "Richard Falley Cleveland",
+                "mother": "Ann Neal Cleveland"
+            } 
+        },
+        "famous_quote": "A truly American sentiment recognizes the dignity of labor and the fact that honor lies in honest toil.",
+        "image_url": "http://localhost:3000/president22.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Benjamin Harrison",
+        "vice_president": [
+            {
+                "name": "Levi P. Morton",
+                "from": 1889,
+                "to": 1893
+            }
+        ],
+        "first_lady": "Caroline Lavinia Scott",
+        "political_party": "Republican",
+        "in_office": {
+            "from": "03/04/1889",
+            "to": "03/03/1893"
+        },
+        "personal_details": {
+            "born": "08/20/1833",
+            "died": "03/13/1901",
+            "aged": 67,
+            "spouse": "Caroline Lavinia Scott",
+            "children": ["Russell","Mary","Elizabeth"],
+            "parents": {
+                "father": "John Scott Harrison",
+                "mother": "Elizabeth Ramsey Irwin Harrison"
+            } 
+        },
+        "famous_quote": "I have often thought that the life of the President is like that of the policeman in the opera, not a happy one.",
+        "image_url": "http://localhost:3000/president23.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Grover Cleveland",
+        "vice_president": [
+            {
+                "name": "Adlai E. Stevenson",
+                "from": 1893,
+                "to": 1897
+            }
+        ],
+        "first_lady": "Frances Folsom",
+        "political_party": "Democratic",
+        "in_office": {
+            "from": "03/04/1893",
+            "to": "03/03/1897"
+        },
+        "personal_details": {
+            "born": "03/18/1837",
+            "died": "06/24/1908",
+            "aged": 71,
+            "spouse": "Frances Folsom",
+            "children": ["Ruth","Esther","Marion","Richard","Francis"],
+            "parents": {
+                "father": "Richard Falley Cleveland",
+                "mother": "Ann Neal Cleveland"
+            } 
+        },
+        "famous_quote": "A truly American sentiment recognizes the dignity of labor and the fact that honor lies in honest toil.",
+        "image_url": "http://localhost:3000/president24.jpg"
+    },
+    {
+        "id": 25,
+        "name": "William McKinley",
+        "vice_president": [
+            {
+                "name": "Garrett A. Hobart",
+                "from": 1897,
+                "to": 1899
+            },
+            {
+                "name": "Theodore Roosevelt",
+                "from": 1901,
+                "to": 1901
+            }
+        ],
+        "first_lady": "Ida Saxton",
+        "political_party": "Republican",
+        "in_office": {
+            "from": "03/04/1897",
+            "to": "09/14/1901"
+        },
+        "personal_details": {
+            "born": "01/29/1843",
+            "died": "09/14/1901",
+            "aged": 58,
+            "spouse": "Ida Saxton",
+            "children": ["Katherine","Ida"],
+            "parents": {
+                "father": "William McKinley Sr.",
+                "mother": "Nancy Campbell Allison McKinley"
+            } 
+        },
+        "famous_quote": "War should never be entered upon until every agency of peace has failed.",
+        "image_url": "http://localhost:3000/president25.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Theodore Roosevelt",
+        "vice_president": [
+            {
+                "name": "Charles Warren Fairbanks",
+                "from": 1905,
+                "to": 1909
+            }
+        ],
+        "first_lady": "Edith Kermit Carow",
+        "political_party": "Republican",
+        "in_office": {
+            "from": "09/14/1901",
+            "to": "03/03/1909"
+        },
+        "personal_details": {
+            "born": "10/27/1858",
+            "died": "01/06/1919",
+            "aged": 60,
+            "spouse": "Edith Kermit Carow",
+            "children": ["Alice", "Theodore","Kermit","Ethel","Archibald","Quentin"],
+            "parents": {
+                "father": "Theodore Roosevelt Sr.",
+                "mother": "Martha Bulloch Roosevelt"
+            } 
+        },
+        "famous_quote": "Freedom from effort in the present merely means that there has been effort stored up in the past.",
+        "image_url": "http://localhost:3000/president26.jpg"
+    },
+    {
+        "id": 27,
+        "name": "William H. Taft",
+        "vice_president": [
+            {
+                "name": "James S. Sherman",
+                "from": 1909,
+                "to": 1912
+            }
+        ],
+        "first_lady": "Helen Herron",
+        "political_party": "Republican",
+        "in_office": {
+            "from": "03/04/1909",
+            "to": "03/03/1913"
+        },
+        "personal_details": {
+            "born": "09/15/1857",
+            "died": "03/08/1930",
+            "aged": 72,
+            "spouse": "Helen Herron",
+            "children": ["Robert","Helen","Charles"],
+            "parents": {
+                "father": "Alphonso Taft",
+                "mother": "Louisa Maria Torrey Taft"
+            } 
+        },
+        "famous_quote": "The world is not going to be saved by legislation.",
+        "image_url": "http://localhost:3000/president27.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Woodrow Wilson",
+        "vice_president": [
+            {
+                "name": "Thomas R. Marshall",
+                "from": 1913,
+                "to": 1921
+            }
+        ],
+        "first_lady": "Edith Bolling Galt",
+        "political_party": "Democratic",
+        "in_office": {
+            "from": "03/04/1913",
+            "to": "03/03/1921"
+        },
+        "personal_details": {
+            "born": "12/28/1856",
+            "died": "02/03/1924",
+            "aged": 67,
+            "spouse": "Edith Bolling Galt",
+            "children": ["Margaret","Jessie","Eleanor"],
+            "parents": {
+                "father": "Joseph Ruggles Wilson",
+                "mother": "Jessie Janet Woodrow Wilson"
+            } 
+        },
+        "famous_quote": "If you want to make enemies, try to change something.",
+        "image_url": "http://localhost:3000/president28.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Warren Harding",
+        "vice_president": [
+            {
+                "name": "Calvin Coolidge",
+                "from": 1921,
+                "to": 1923
+            }
+        ],
+        "first_lady": "Florence Kling De Wolfe",
+        "political_party": "Republican",
+        "in_office": {
+            "from": "03/04/1921",
+            "to": "08/02/1923"
+        },
+        "personal_details": {
+            "born": "11/02/1865",
+            "died": "08/02/1923",
+            "aged": 57,
+            "spouse": "Florence Kling De Wolfe",
+            "children": ["Elizabeth"],
+            "parents": {
+                "father": "George Tyron Harding",
+                "mother": "Phoebe Elizabeth Dickerson Harding"
+            } 
+        },
+        "famous_quote": "Every student has the ability to be a successful learner.",
+        "image_url": "http://localhost:3000/president29.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Calvin Coolidge",
+        "vice_president": [
+            {
+                "name": "Charles G. Dawes",
+                "from": 1925,
+                "to": 1929
+            }
+        ],
+        "first_lady": "Grace Anna Goodhue",
+        "political_party": "Republican",
+        "in_office": {
+            "from": "08/03/1923",
+            "to": "03/03/1929"
+        },
+        "personal_details": {
+            "born": "07/04/1872",
+            "died": "01/05/1933",
+            "aged": 60,
+            "spouse": "Grace Anna Goodhue",
+            "children": ["John","Calvin"],
+            "parents": {
+                "father": "John Calvin Coolidge Sr.",
+                "mother": "Victoria Josephine Moor Coolidge"
+            } 
+        },
+        "famous_quote": "No man ever listened himself out of a job.",
+        "image_url": "http://localhost:3000/president30.jpg"
+    },
+    {
+        "id": 31,
+        "name": "Herbert Hoover",
+        "vice_president": [
+            {
+                "name": "Charles Curtis",
+                "from": 1929,
+                "to": 1933
+            }
+        ],
+        "first_lady": "Lou Henry",
+        "political_party": "Republican",
+        "in_office": {
+            "from": "03/04/1929",
+            "to": "03/03/1933"
+        },
+        "personal_details": {
+            "born": "08/10/1874",
+            "died": "10/20/1964",
+            "aged": 90,
+            "spouse": "Lou Henry",
+            "children": ["Herbert","Allan"],
+            "parents": {
+                "father": "Jesse Clark Hoover",
+                "mother": "Hulda Randall Minthorn Hoover"
+            } 
+        },
+        "famous_quote": "Honor is not the exclusive property of any political party.",
+        "image_url": "http://localhost:3000/president31.jpg"
+    },
+    {
+        "id": 32,
+        "name": "Franklin Delano Roosevelt",
+        "vice_president": [
+            {
+                "name": "John N. Garner",
+                "from": 1933,
+                "to": 1941
+            },
+            {
+                "name": "Henry A. Wallace",
+                "from": 1941,
+                "to": 1945
+            },
+            {
+                "name": "Harry S. Truman",
+                "from": 1945,
+                "to": 1945
+            }
+        ],
+        "first_lady": "Anna Eleanor Roosevelt",
+        "political_party": "Democratic",
+        "in_office": {
+            "from": "03/04/1933",
+            "to": "04/12/1945"
+        },
+        "personal_details": {
+            "born": "01/30/1882",
+            "died": "04/12/1945",
+            "aged": 63,
+            "spouse": "Anna Eleanor Roosevelt",
+            "children": ["Anna","James","Elliot","Franklin","John"],
+            "parents": {
+                "father": "James Roosevelt",
+                "mother": "Sara Delano Roosevelt"
+            } 
+        },
+        "famous_quote": "Men are not prisoners of fate, but only prisoners of their own minds.",
+        "image_url": "http://localhost:3000/president32.jpg"
+    },
+    {
+        "id": 33,
+        "name": "Harry S. Truman",
+        "vice_president": [
+            {
+                "name": "Alben W. Barkley",
+                "from": 1949,
+                "to": 1953
+            }
+        ],
+        "first_lady": "Elizabeth Virginia Wallace",
+        "political_party": "Democratic",
+        "in_office": {
+            "from": "04/12/1945",
+            "to": "01/20/1953"
+        },
+        "personal_details": {
+            "born": "05/08/1884",
+            "died": "12/26/1972",
+            "aged": 88,
+            "spouse": "Elizabeth Virginia Wallace",
+            "children": ["Mary"],
+            "parents": {
+                "father": "John Anderson Turner",
+                "mother": "Martha Ellen Young Truman"
+            } 
+        },
+        "famous_quote": "It is amazing how much you can accomplish when it doesn't matter who gets the credit",
+        "image_url": "http://localhost:3000/president33.jpg"
+    },
+    {
+        "id": 34,
+        "name": "Dwight D. Eisenhower",
+        "vice_president": [
+            {
+                "name": "Richard M. Nixon",
+                "from": 1953,
+                "to": 1961
+            }
+        ],
+        "first_lady": "Mary Geneva Doud",
+        "political_party": "Republican",
+        "in_office": {
+            "from": "01/20/1953",
+            "to": "01/20/1961"
+        },
+        "personal_details": {
+            "born": "10/14/1890",
+            "died": "03/28/1969",
+            "aged": 78,
+            "spouse": "Mary Geneva Doud",
+            "children": ["Doud","John"],
+            "parents": {
+                "father": "David Jacob Eisenhower",
+                "mother": "Ida Elizabeth Stover Eisenhower"
+            } 
+        },
+        "famous_quote": "May we, in our dealings with all the peoples of the earth, ever speak the truth and serve justice.",
+        "image_url": "http://localhost:3000/president34.jpg"
+    },
+    {
+        "id": 35,
+        "name": "John F. Kennedy",
+        "vice_president": [
+            {
+                "name": "Lyndon B. Johnson",
+                "from": 1961,
+                "to": 1963
+            }
+        ],
+        "first_lady": "Jacqueline Lee Bouvier",
+        "political_party": "Democratic",
+        "in_office": {
+            "from": "01/20/1961",
+            "to": "11/22/1963"
+        },
+        "personal_details": {
+            "born": "05/29/1917",
+            "died": "11/22/1963",
+            "aged": 46,
+            "spouse": "Jacqueline Lee Bouvier",
+            "children": ["Caroline","John","Patrick"],
+            "parents": {
+                "father": "Joseph Patrick Kennedy",
+                "mother": "Rose Elizabeth Fitzgerald Kennedy"
+            } 
+        },
+        "famous_quote": "Too often we... enjoy the comfort of opinion without the discomfort of thought.",
+        "image_url": "http://localhost:3000/president35.jpg"
+    },
+    {
+        "id": 36,
+        "name": "Lyndon B. Johnson",
+        "vice_president": [
+            {
+                "name": "Hubert H. Humphrey",
+                "from": 1965,
+                "to": 1969
+            }
+        ],
+        "first_lady": "Claudia Alta Taylor",
+        "political_party": "Democratic",
+        "in_office": {
+            "from": "11/22/1963",
+            "to": "01/20/1969"
+        },
+        "personal_details": {
+            "born": "08/27/1908",
+            "died": "01/22/1973",
+            "aged": 64,
+            "spouse": "Claudia Alta Taylor",
+            "children": ["Lynda","Luci"],
+            "parents": {
+                "father": "Sam Ealy Johnson Jr.",
+                "mother": "Rebekah Baines Johnson"
+            } 
+        },
+        "famous_quote": "America is not merely a nation but a nation of nations.",
+        "image_url": "http://localhost:3000/president36.jpg"
+    },
+    {
+        "id": 37,
+        "name": "Richard Nixon",
+        "vice_president": [
+            {
+                "name": "Spiro T. Agnew",
+                "from": 1969,
+                "to": 1973
+            },
+            {
+                "name": "Gerald R. Ford",
+                "from": 1973,
+                "to": 1974
+            }
+        ],
+        "first_lady": "Thelma Catherine Ryan",
+        "political_party": "Republican",
+        "in_office": {
+            "from": "01/20/1969",
+            "to": "08/09/1974"
+        },
+        "personal_details": {
+            "born": "01/09/1913",
+            "died": "04/22/1994",
+            "aged": 81,
+            "spouse": "Thelma Catherine Ryan",
+            "children": ["Patrica","Julie"],
+            "parents": {
+                "father": "Francis Anthony Nixon",
+                "mother": "Hannah Milhous Nixon"
+            } 
+        },
+        "famous_quote": "I have never been a quitter. To leave office before my term is completed is opposed to every instinct in my body. But as president I must put the interests of America first Therefore, I shall resign the presidency effective at noon tomorrow.",
+        "image_url": "http://localhost:3000/president37.jpg"
+    },
+    {
+        "id": 38,
+        "name": "Gerald Ford",
+        "vice_president": [
+            {
+                "name": "Nelson A. Rockefeller",
+                "from": 1974,
+                "to": 1977
+            }
+        ],
+        "first_lady": "Elizabeth Bloomer Warren",
+        "political_party": "Republican",
+        "in_office": {
+            "from": "08/09/1974",
+            "to": "01/20/1977"
+        },
+        "personal_details": {
+            "born": "07/14/1913",
+            "died": "12/26/2006",
+            "aged": 93,
+            "spouse": "Elizabeth Bloomer Warren",
+            "children": ["Michael","John","Steven","Susan"],
+            "parents": {
+                "father": "Leslie Lynch King Sr.",
+                "mother": "Dorothy Ayer Gardner King Ford"
+            } 
+        },
+        "famous_quote": "I would hope that understanding and reconciliation are not limited to the 19th hole alone.",
+        "image_url": "http://localhost:3000/president38.jpg"
+    },
+    {
+        "id": 39,
+        "name": "Jimmy Carter",
+        "vice_president": [
+            {
+                "name": "Walter F. Mondale",
+                "from": 1977,
+                "to": 1981
+            }
+        ],
+        "first_lady": "Eleanor Rosalynn Smith",
+        "political_party": "Democratic",
+        "in_office": {
+            "from": "01/20/1977",
+            "to": "01/20/1981"
+        },
+        "personal_details": {
+            "born": "10/01/1924",
+            "died": "",
+            "aged": 95,
+            "spouse": "Eleanor Rosalynn Smith",
+            "children": ["John","James","Donnel","Amy"],
+            "parents": {
+                "father": "James Earl Carter Sr.",
+                "mother": "Lillian Gordy Carter"
+            } 
+        },
+        "famous_quote": "You can do what you have to do, and sometimes you can do it even better than you think you can",
+        "image_url": "http://localhost:3000/president39.jpg"
+    },
+    {
+        "id": 40,
+        "name": "Ronald Reagan",
+        "vice_president": [
+            {
+                "name": "George H. W. Bush",
+                "from": 1981,
+                "to": 1989
+            }
+        ],
+        "first_lady": "Nancy Davis",
+        "political_party": "Republican",
+        "in_office": {
+            "from": "01/20/1981",
+            "to": "01/20/1989"
+        },
+        "personal_details": {
+            "born": "02/06/1911",
+            "died": "06/05/2004",
+            "aged": 93,
+            "spouse": "Nancy Davis",
+            "children": ["Maureen","Michael","Christine","Patricia","Ronald"],
+            "parents": {
+                "father": "John Edward Reagan",
+                "mother": "Nelle Wilson Reagan"
+            } 
+        },
+        "famous_quote": "When you can't make them see the light, make them feel the heat.",
+        "image_url": "http://localhost:3000/president40.jpg"
+    },
+    {
+        "id": 41,
+        "name": "George H. W. Bush",
+        "vice_president": [
+            {
+                "name": "J. Danforth Quayle",
+                "from": 1989,
+                "to": 1993
+            }
+        ],
+        "first_lady": "Barbara Pierce",
+        "political_party": "Republican",
+        "in_office": {
+            "from": "01/20/1989",
+            "to": "01/20/1993"
+        },
+        "personal_details": {
+            "born": "06/12/1924",
+            "died": "11/30/2018",
+            "aged": 94,
+            "spouse": "Barbara Pierce",
+            "children": ["George","Pauline","John","Neil","Marvin","Dorothy"],
+            "parents": {
+                "father": "Prescott Sheldon Bush",
+                "mother": "Dorothy Wear Walker Bush"
+            } 
+        },
+        "famous_quote": "No generation can escape history.",
+        "image_url": "http://localhost:3000/president41.jpg"
+    },
+    {
+        "id": 42,
+        "name": "Bill Clinton",
+        "vice_president": [
+            {
+                "name": "Albert Gore, Jr.",
+                "from": 1993,
+                "to": 2001
+            }
+        ],
+        "first_lady": "Hillary Rodham",
+        "political_party": "Democratic",
+        "in_office": {
+            "from": "01/20/1993",
+            "to": "01/20/2001"
+        },
+        "personal_details": {
+            "born": "08/19/1946",
+            "died": "",
+            "aged": 73,
+            "spouse": "Hillary Rodham",
+            "children": ["Chelsea"],
+            "parents": {
+                "father": "William Jefferson Blythe Jr.",
+                "mother": "Virginia Divine Cassidy Blythe Clinton Kelley"
+            } 
+        },
+        "famous_quote": "I did not run for this job just to warm the seat. I desperately want to make a difference.",
+        "image_url": "http://localhost:3000/president42.jpg"
+    },
+    {
+        "id": 43,
+        "name": "George W. Bush",
+        "vice_president": [
+            {
+                "name": "Richard B. Cheney",
+                "from": 2001,
+                "to": 2009
+            }
+        ],
+        "first_lady": "Laura Welch",
+        "political_party": "Republican",
+        "in_office": {
+            "from": "01/20/2001",
+            "to": "01/20/2009"
+        },
+        "personal_details": {
+            "born": "07/06/1946",
+            "died": "",
+            "aged": 73,
+            "spouse": "Laura Welch",
+            "children": ["Barbara","Jenna"],
+            "parents": {
+                "father": "George Herbert Walker Bush",
+                "mother": "Barbara Pierce Bush"
+            } 
+        },
+        "famous_quote": "We will not tire, we will not falter, and we will not fail.",
+        "image_url": "http://localhost:3000/president43.jpg"
+    },
+    {
+        "id": 44,
+        "name": "Barack Obama",
+        "vice_president": [
+            {
+                "name": "Joseph R. Biden Jr.",
+                "from": 2009,
+                "to": 2017
+            }
+        ],
+        "first_lady": "Michelle Robinson",
+        "political_party": "Democratic",
+        "in_office": {
+            "from": "01/20/2009",
+            "to": "01/20/2017"
+        },
+        "personal_details": {
+            "born": "08/04/1961",
+            "died": "",
+            "aged": 58,
+            "spouse": "Michelle Robinson",
+            "children": ["Malia","Natasha"],
+            "parents": {
+                "father": "Barack Hussein Obama Sr.",
+                "mother": "Ann Dunham"
+            } 
+        },
+        "famous_quote": "The United States is not, and never will be, at war with Islam.",
+        "image_url": "http://localhost:3000/president44.jpg"
+    },
+    {
+        "id": 45,
+        "name": "Donald Trump",
+        "vice_president": [
+            {
+                "name": "Michael R. Pence",
+                "from": 2017,
+                "to": 2020
+            }
+        ],
+        "first_lady": "Melania Knavs",
+        "political_party": "Republican",
+        "in_office": {
+            "from": "01/20/2017",
+            "to": "Present"
+        },
+        "personal_details": {
+            "born": "06/14/1946",
+            "died": "",
+            "aged": 73,
+            "spouse": "Melania Knavs",
+            "children": ["Donald","Ivanka","Eric","Tiffany","Barron"],
+            "parents": {
+                "father": "Frederick Christ Trump",
+                "mother": "Mary Anne MacLeod"
+            } 
+        },
+        "famous_quote": "No collusion.",
+        "image_url": "http://localhost:3000/president45.jpg"
+    }
+]
